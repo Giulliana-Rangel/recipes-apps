@@ -14,7 +14,7 @@ O app busca atender também dispositivos móveis (telas menores).
 - Git,
  Tests: Jest, Rtl e unitários. > 90% de cobertura da aplicação. 
  
-### Colaboradores: title="Rocketseat">🚀</a>
+### Colaboradores:🚀
  - Raphael Righetti
  - Saulo Vasconcelos
  - Karoline Stangherlin
