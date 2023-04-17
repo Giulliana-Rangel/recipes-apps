@@ -1,13 +1,25 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto: App De Receitas
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Descrição:
+Este é um aplicativo de um app de receitas onde é possível:  ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas!
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+A base de dados são 2 APIs diferentes: uma para comidas e outra para bebidas.
+
+O app busca atender também dispositivos móveis (telas menores).
+
+###  🛠 Stacks Utilizadas: 
+- React: Hooks e Context API, 
+- Redux, JavaScript, 
+- Node.js,
+- Git,
+ Tests: Jest, Rtl e unitários. > 90% de cobertura da aplicação. 
+ 
+### Colaboradores: title="Rocketseat">🚀</a>
+ - Raphael Righetti
+ - Saulo Vasconcelos
+ - Karoline Stangherlin
+ - Antônio Neto
+ - Trybe
+ 
+ 
+ ✅ Status: Completo
